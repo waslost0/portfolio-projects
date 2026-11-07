@@ -1,6 +1,6 @@
 # Александр Епифанов — Flutter-разработчик (Middle+)
 
-5 лет коммерческой разработки. 30 приложений: B2B-аналитика, логистика, мерчандайзинг, автосервис, HR, retail, e-commerce.
+5 лет коммерческой разработки. 29 приложений: B2B-аналитика, логистика, мерчандайзинг, автосервис, HR, retail, e-commerce.
 
 **Контакты:**
 - Telegram: [@koh_alexander](https://t.me/koh_alexander)
@@ -344,17 +344,6 @@ B2B-опт: склад, счета.
 **Ссылки:**
 - [Google Play](https://play.google.com/store/apps/details?id=ru.allianceg.shop)
 - [App Store](https://apps.apple.com/ru/app/id6812640108)
-
----
-
-### APM Semicvetik (2021–2025)
-
-B2B для флористов: сканирование, каталог.
-
-**Мой вклад:**
-- Скан-модуль, каталог, webview.
-
-**Стек:** Flutter, Provider, HTTP, Firebase, кастомный scan-модуль.
 
 ---
 
