@@ -19,7 +19,6 @@ B2B-аналитика доходов отелей: KPI-метрики OTB, ADR,
 - Разработал KPI-модуль: графики, таблицы, фильтры, сравнение с прошлым годом.
 - Переключение между отелями и конкурентами, тултипы, экспорт данных.
 - Старший разработчик проекта: архитектура, code review, релизы.
-- App Store 4.9/5 (40 оценок).
 
 **Стек:** Flutter, Provider, Hive, Firebase (Messaging, Analytics, Crashlytics, Remote Config), fl_chart, WebSocket.
 
