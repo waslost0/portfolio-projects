@@ -1,6 +1,6 @@
 # Александр Епифанов — Flutter-разработчик (Middle+)
 
-5 лет коммерческой разработки. 27 приложений: B2B-аналитика, логистика, мерчандайзинг, автосервис, HR, retail, e-commerce.
+5 лет коммерческой разработки. 30 приложений: B2B-аналитика, логистика, мерчандайзинг, автосервис, HR, retail, e-commerce.
 
 **Контакты:**
 - Telegram: [@koh_alexander](https://t.me/koh_alexander)
@@ -332,24 +332,6 @@ HR-кабинет сотрудника.
 
 ---
 
-### Daylight (2025)
-
-Стройматериалы: каталог, адреса, медиа.
-
-**Что делал:**
-- Каталог, адреса магазинов, медиа, чат.
-- App Store 4.95/5 (19 оценок).
-
-**Стек:** Flutter, Provider, Hive CE, Yandex MapKit, Firebase, WebSocket, record.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.daylightliontex.app)
-- [App Store](https://apps.apple.com/ru/app/id1550941926)
-
-![Daylight](assets/daylight.png)
-
----
-
 ### Alliance (2025–2026)
 
 B2B-опт: склад, счета.
@@ -424,3 +406,78 @@ B2B для флористов: сканирование, каталог.
 - [App Store](https://apps.apple.com/ru/app/id1552684145)
 
 ![Грузик](assets/gruzik.png)
+
+---
+
+### Ples (2021–2026)
+
+Система лояльности «Фирма Плёс»: бонусная карта, акции.
+
+**Что делал:**
+- Личный кабинет, бонусная карта, QR-код, сканер штрих-кода.
+- Календарь акций, акционные товары, новости.
+- Интеграция с API 1С.
+
+**Стек:** Flutter, Provider, Hive, Firebase, Yandex MapKit, WebSocket.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.ples12.app)
+- [App Store](https://apps.apple.com/ru/app/id6749142040)
+
+![Ples](assets/ples.png)
+
+---
+
+### Семицветик (2021–2025)
+
+Цветочный интернет-магазин: заказ и доставка цветов.
+
+**Что делал:**
+- Каталог, поиск, фильтры, корзина, оформление, онлайн-оплата.
+- Важные даты, контакты, фильтрация по периоду.
+- Интеграция с API сайта.
+
+**Стек:** Flutter, Provider, Hive, Firebase, yandex_mapkit_lite.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.semicvetic.app)
+- [App Store](https://apps.apple.com/ru/app/id6477922855)
+
+![Семицветик](assets/semicvetik.png)
+
+---
+
+### АМС72 (2023–2025)
+
+Продажа б/у автозапчастей: авторазбор.
+
+**Что делал:**
+- Каталог, поиск, фильтры, избранное, корзина.
+- Оформление, оплата, доставка, мои заказы.
+- Интеграция с API сайта на Битрикс 24.
+
+**Стек:** Flutter, Provider, Hive, Firebase, flutter_blurhash.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.amc72.app)
+- [App Store](https://apps.apple.com/ru/app/id6752297331)
+
+![АМС72](assets/amc72.png)
+
+---
+
+### Генерал (2023–2026)
+
+Охранное предприятие: управление охраной объектов.
+
+**Что делал:**
+- Объекты: тревога, ремонт, снять с охраны.
+- Мои заявки, выдача доступа, приглашения.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, video_player.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.securityagency.app)
+- [App Store](https://apps.apple.com/ru/app/id6737612410)
+
+![Генерал](assets/general.png)
