@@ -110,6 +110,108 @@ E-commerce автозапчастей: каталог, корзина, зака�
 ---
 
 ## Другие проекты
+### Salegroup / Merch (2022–2026)
+
+Полевой мерчандайзинг: отчёты, фото, офлайн.
+
+**Мой вклад:**
+- Модуль отчётов: формы, валидация, обработка файлов.
+- Кастомная камера, аудиозапись, RTSP-камера.
+- Полный офлайн с синхронизацией.
+
+**Стек:** Flutter, Provider, Hive, Dio, Firebase, camera, just_audio, record, RTSP.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.merch.app)
+- [App Store](https://apps.apple.com/ru/app/id1348232526)
+
+![Salegroup](assets/salegroup.png)
+
+---
+
+### Ples (2021–2026)
+
+Система лояльности «Фирма Плёс»: бонусная карта, акции.
+
+**Мой вклад:**
+- Личный кабинет, бонусная карта, QR-код, сканер штрих-кода.
+- Календарь акций, акционные товары, новости.
+- Интеграция с API 1С.
+
+**Стек:** Flutter, Provider, Hive, Firebase, Yandex MapKit, WebSocket.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.ples12.app)
+- [App Store](https://apps.apple.com/ru/app/id6749142040)
+
+![Ples](assets/ples.png)
+
+---
+
+### Платформа недвижимости (2021–2026) `NDA`
+
+Новостройки: каталог, карта, чат.
+
+**Мой вклад:**
+- Кластеризация карты: 1000+ пинов, дифф-обновления, производительность.
+- Каталог, push, авторизация по OTP, магазин.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, fl_chart, video_player.
+
+---
+
+### Туристическая платформа (2021–2026) `NDA`
+
+Туры: бронирование, оплата, избранное.
+
+**Мой вклад:**
+- Бронирование и оплата, избранное, чат с медиа, карта.
+
+**Стек:** Flutter, Provider, Elementary, Hive CE, GoRouter, Dio, Firebase, flutter_sound.
+
+---
+
+### Первый мясокомбинат / Доброгост (2023–2026)
+
+Мясная продукция: каталог, заказ, доставка.
+
+**Мой вклад:**
+- Каталог и заказ, корзина, уведомления.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, WebSocket.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.firstmeat.app)
+- [App Store](https://apps.apple.com/ru/app/id6471236889)
+
+![Первый мясокомбинат](assets/first-meat.png)
+
+---
+
+### Продуктовый ритейл (2021–2026) `NDA`
+
+Каталог, самовывоз, бонусы.
+
+**Мой вклад:**
+- Каталог, корзина, самовывоз, бонусы.
+- share_plus, форматирование телефонов, фиксы.
+
+**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, video_player.
+
+---
+
+### HR-кабинет сотрудника (2021–2026) `NDA`
+
+Начисления, договоры, патенты, документы.
+
+**Мой вклад:**
+- Начисления, договоры, патенты, документы, PDF.
+- LMS-квизы, чат, миграция UIScene.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, file_picker, share_plus.
+
+---
+
 
 ### Promminer (2023–2025)
 
@@ -129,22 +231,84 @@ E-commerce автозапчастей: каталог, корзина, зака�
 
 ---
 
-### Salegroup / Merch (2022–2026)
+### Alliance (2025–2026)
 
-Полевой мерчандайзинг: отчёты, фото, офлайн.
+B2B-опт: склад, счета.
 
 **Мой вклад:**
-- Модуль отчётов: формы, валидация, обработка файлов.
-- Кастомная камера, аудиозапись, RTSP-камера.
-- Полный офлайн с синхронизацией.
+- Заказы, склад, счета, поддержка плагина карт.
 
-**Стек:** Flutter, Provider, Hive, Dio, Firebase, camera, just_audio, record, RTSP.
+**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator, file_picker.
 
 **Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.merch.app)
-- [App Store](https://apps.apple.com/ru/app/id1348232526)
+- [Google Play](https://play.google.com/store/apps/details?id=ru.allianceg.shop)
+- [App Store](https://apps.apple.com/ru/app/id6812640108)
 
-![Salegroup](assets/salegroup.png)
+---
+
+### Nova Аптека (2021–2025)
+
+Аптечная сеть: каталог, корзина, оплата.
+
+**Мой вклад:**
+- Магазин, новости, чат, профиль, интеграции, релизы.
+
+**Стек:** Flutter, Provider, Hive, Yandex MapKit, Firebase, WebSocket.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.nova.apteka)
+- [App Store](https://apps.apple.com/ru/app/id6749004672)
+
+![Nova Аптека](assets/nova.png)
+
+---
+
+### Calipta (2021–2026)
+
+Медицинская платформа: клиники, врачи, видеоконсультации.
+
+**Мой вклад:**
+- Запись и консультации, чат, навигация, интеграции, релизы.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, WebSocket, video_player.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.calipta.app)
+- [App Store](https://apps.apple.com/ru/app/id6754246043)
+
+![Calipta](assets/calipta.png)
+
+---
+
+### Gastronom (2026)
+
+Продукты и доставка.
+
+**Мой вклад:**
+- Каталог, корзина, доставка.
+
+**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.gastronom.app)
+
+---
+
+### Генерал (2023–2026)
+
+Охранное предприятие: управление охраной объектов.
+
+**Мой вклад:**
+- Объекты: тревога, ремонт, снять с охраны.
+- Мои заявки, выдача доступа, приглашения.
+
+**Стек:** Flutter, Provider, Hive CE, Firebase, video_player.
+
+**Ссылки:**
+- [Google Play](https://play.google.com/store/apps/details?id=ru.securityagency.app)
+- [App Store](https://apps.apple.com/ru/app/id6737612410)
+
+![Генерал](assets/general.png)
 
 ---
 
@@ -215,84 +379,6 @@ E-commerce автозапчастей: каталог, корзина, зака�
 
 ---
 
-### Первый мясокомбинат / Доброгост (2023–2026)
-
-Мясная продукция: каталог, заказ, доставка.
-
-**Мой вклад:**
-- Каталог и заказ, корзина, уведомления.
-
-**Стек:** Flutter, Provider, Hive CE, Firebase, WebSocket.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.firstmeat.app)
-- [App Store](https://apps.apple.com/ru/app/id6471236889)
-
-![Первый мясокомбинат](assets/first-meat.png)
-
----
-
-### Empire (2021–2026)
-
-Недвижимость и новостройки: каталог, карта, чат.
-
-**Мой вклад:**
-- Кластеризация карты: 1000+ пинов, дифф-обновления, производительность.
-- Каталог, push, авторизация по OTP, магазин.
-
-**Стек:** Flutter, Provider, Hive CE, Firebase, fl_chart, video_player.
-
----
-
-### Azhur (2021–2026)
-
-Туры: бронирование, оплата, избранное.
-
-**Мой вклад:**
-- Бронирование и оплата, избранное, чат с медиа, карта.
-
-**Стек:** Flutter, Provider, Elementary, Hive CE, GoRouter, Dio, Firebase, flutter_sound.
-
----
-
-### Employee App (2021–2026)
-
-HR-кабинет сотрудника.
-
-**Мой вклад:**
-- Начисления, договоры, патенты, документы, PDF.
-- LMS-квизы, чат, миграция UIScene.
-
-**Стек:** Flutter, Provider, Hive CE, Firebase, file_picker, share_plus.
-
----
-
-### Cremory Market (2021–2026)
-
-Продуктовый ритейл: каталог, самовывоз, бонусы.
-
-**Мой вклад:**
-- Каталог, корзина, самовывоз, бонусы.
-- share_plus, форматирование телефонов, фиксы.
-
-**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, video_player.
-
----
-
-### Gastronom (2026)
-
-Продукты и доставка.
-
-**Мой вклад:**
-- Каталог, корзина, доставка.
-
-**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.gastronom.app)
-
----
-
 ### Dental Articles (2021–2026)
 
 Стоматологическое образование: статьи, специалисты, опросы.
@@ -309,9 +395,9 @@ HR-кабинет сотрудника.
 
 ---
 
-### Fabrica Bo (2026)
+### Производственная платформа (2026) `NDA`
 
-Фабрика: заказы, каталог, курьер.
+Заказы, каталог, курьер.
 
 **Мой вклад:**
 - Каталог, заказы, курьерская доставка.
@@ -333,55 +419,6 @@ HR-кабинет сотрудника.
 
 ---
 
-### Alliance (2025–2026)
-
-B2B-опт: склад, счета.
-
-**Мой вклад:**
-- Заказы, склад, счета, поддержка плагина карт.
-
-**Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator, file_picker.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.allianceg.shop)
-- [App Store](https://apps.apple.com/ru/app/id6812640108)
-
----
-
-### Nova Аптека (2021–2025)
-
-Аптечная сеть: каталог, корзина, оплата.
-
-**Мой вклад:**
-- Магазин, новости, чат, профиль, интеграции, релизы.
-
-**Стек:** Flutter, Provider, Hive, Yandex MapKit, Firebase, WebSocket.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.nova.apteka)
-- [App Store](https://apps.apple.com/ru/app/id6749004672)
-
-![Nova Аптека](assets/nova.png)
-
----
-
-### Calipta (2021–2026)
-
-Медицинская платформа: клиники, врачи, видеоконсультации.
-
-**Мой вклад:**
-- Запись и консультации, чат, навигация, интеграции, релизы.
-
-**Стек:** Flutter, Provider, Hive CE, Firebase, WebSocket, video_player.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.calipta.app)
-- [App Store](https://apps.apple.com/ru/app/id6754246043)
-
-![Calipta](assets/calipta.png)
-
----
-
 ### Грузик (2022–2025)
 
 Грузоперевозки: клиент/водитель, заявки, маршруты.
@@ -396,25 +433,6 @@ B2B-опт: склад, счета.
 - [App Store](https://apps.apple.com/ru/app/id1552684145)
 
 ![Грузик](assets/gruzik.png)
-
----
-
-### Ples (2021–2026)
-
-Система лояльности «Фирма Плёс»: бонусная карта, акции.
-
-**Мой вклад:**
-- Личный кабинет, бонусная карта, QR-код, сканер штрих-кода.
-- Календарь акций, акционные товары, новости.
-- Интеграция с API 1С.
-
-**Стек:** Flutter, Provider, Hive, Firebase, Yandex MapKit, WebSocket.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.ples12.app)
-- [App Store](https://apps.apple.com/ru/app/id6749142040)
-
-![Ples](assets/ples.png)
 
 ---
 
@@ -453,21 +471,3 @@ B2B-опт: склад, счета.
 - [App Store](https://apps.apple.com/ru/app/id6752297331)
 
 ![АМС72](assets/amc72.png)
-
----
-
-### Генерал (2023–2026)
-
-Охранное предприятие: управление охраной объектов.
-
-**Мой вклад:**
-- Объекты: тревога, ремонт, снять с охраны.
-- Мои заявки, выдача доступа, приглашения.
-
-**Стек:** Flutter, Provider, Hive CE, Firebase, video_player.
-
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.securityagency.app)
-- [App Store](https://apps.apple.com/ru/app/id6737612410)
-
-![Генерал](assets/general.png)
