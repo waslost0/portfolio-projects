@@ -72,7 +72,6 @@ E-commerce автозапчастей: каталог, корзина, зака�
 - Каталог авто, запись на тест-драйв, подача заявок.
 - Медиа: YouTube, Rutube, VK, Shorts.
 - Разделы мото и дилеров, интеграции, релизы.
-- App Store 4.4/5 (14 оценок).
 
 **Стек:** Flutter, Provider, Hive CE, Firebase, WebView, video_player, geolocator.
 
