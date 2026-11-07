@@ -58,6 +58,7 @@ E-commerce автозапчастей: каталог, корзина, зака�
 - Маршрутные листы и точки, сканирование грузов (flutter_zxing), GPS.
 - Foreground-сервис, полный офлайн, локальные уведомления.
 - Генерация PDF, синхронизация при появлении сети.
+- Собрал mock-бэкенд на FastAPI (маршрутные листы, грузы, GPS, JWT, админка), так как заказчик не предоставил свой dev-сервер — ускорил тестирование.
 
 **Стек:** Flutter, Provider, Hive CE, flutter_zxing, camera, geolocator, flutter_local_notifications, PDF.
 
