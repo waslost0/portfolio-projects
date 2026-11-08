@@ -313,9 +313,6 @@ B2B-опт: заказы, склад, счета, карта.
 
 **Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator.
 
-**Ссылки:**
-- [Google Play](https://play.google.com/store/apps/details?id=ru.gastronom.app)
-
 ---
 
 ### Генерал (2023–2026)
