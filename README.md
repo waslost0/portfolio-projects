@@ -103,7 +103,7 @@ E-commerce автозапчастей: каталог, корзина, зака�
 **Мой вклад:**
 - Архитектура: typed GoRoute, Riverpod, Freezed.
 - Каталог и фильтры, универсальные состояния загрузки, общие виджеты.
-- Логирование запросов (talker + Dio), iOS flavors, CI.
+- Логирование сетевых запросов, CI/CD.
 
 **Стек:** Flutter, Riverpod, Freezed, GoRouter, Dio, Firebase.
 
@@ -194,7 +194,7 @@ E-commerce автозапчастей: каталог, корзина, зака�
 
 **Мой вклад:**
 - Каталог, корзина, самовывоз, бонусы.
-- share_plus, форматирование телефонов, фиксы.
+- Сборки, интеграции, релизы.
 
 **Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, video_player.
 
@@ -206,7 +206,7 @@ E-commerce автозапчастей: каталог, корзина, зака�
 
 **Мой вклад:**
 - Начисления, договоры, патенты, документы, PDF.
-- LMS-квизы, чат, миграция UIScene.
+- LMS-квизы, чат.
 
 **Стек:** Flutter, Provider, Hive CE, Firebase, file_picker, share_plus.
 
@@ -236,7 +236,7 @@ E-commerce автозапчастей: каталог, корзина, зака�
 B2B-опт: склад, счета.
 
 **Мой вклад:**
-- Заказы, склад, счета, поддержка плагина карт.
+- Заказы, склад, счета, карта.
 
 **Стек:** Flutter, Provider, Hive CE, GoRouter, Firebase, geolocator, file_picker.
 
