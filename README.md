@@ -5,7 +5,7 @@
 **Контакты:**
 - Telegram: [@koh_alexander](https://t.me/koh_alexander)
 - GitHub: [waslost0](https://github.com/waslost0)
-- Email: marcus.koh16.01.97@gmail.com
+- Email: alexkoh.x@gmail.com
 
 ---
 
